@@ -11,7 +11,7 @@ import SwiftUI
 struct CirculateApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            AuthenticationScreen()
         }
     }
 }
